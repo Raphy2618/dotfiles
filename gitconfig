@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raphaelcohen007@gmail.com
+	name = Raphael Cohen
